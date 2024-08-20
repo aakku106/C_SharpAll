@@ -1,0 +1,7 @@
+C:\Users\seva\source\repos\IntroToMethod\IntroToMethod\bin\Debug\IntroToMethod.exe.config
+C:\Users\seva\source\repos\IntroToMethod\IntroToMethod\bin\Debug\IntroToMethod.exe
+C:\Users\seva\source\repos\IntroToMethod\IntroToMethod\bin\Debug\IntroToMethod.pdb
+C:\Users\seva\source\repos\IntroToMethod\IntroToMethod\obj\Debug\IntroToMethod.csproj.AssemblyReference.cache
+C:\Users\seva\source\repos\IntroToMethod\IntroToMethod\obj\Debug\IntroToMethod.csproj.CoreCompileInputs.cache
+C:\Users\seva\source\repos\IntroToMethod\IntroToMethod\obj\Debug\IntroToMethod.exe
+C:\Users\seva\source\repos\IntroToMethod\IntroToMethod\obj\Debug\IntroToMethod.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seva\\source\\repos\\qtn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E53EB6FD-AAB0-4DA4-8BA5-61AFDA78F15F}|qtn\\qtn.csproj|c:\\users\\seva\\source\\repos\\qtn\\qtn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53EB6FD-AAB0-4DA4-8BA5-61AFDA78F15F}|qtn\\qtn.csproj|solutionrelative:qtn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seva\\source\\repos\\qtn\\qtn\\Program.cs",
+              "RelativeDocumentMoniker": "qtn\\Program.cs",
+              "ToolTip": "C:\\Users\\seva\\source\\repos\\qtn\\qtn\\Program.cs",
+              "RelativeToolTip": "qtn\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:11:40.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

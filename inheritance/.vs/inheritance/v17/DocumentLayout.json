@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seva\\source\\repos\\inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A65FE58-6782-4F26-A0BD-F0A7C8768FED}|inheritance\\inheritance.csproj|c:\\users\\seva\\source\\repos\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A65FE58-6782-4F26-A0BD-F0A7C8768FED}|inheritance\\inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A65FE58-6782-4F26-A0BD-F0A7C8768FED}|inheritance\\inheritance.csproj|C:\\Users\\seva\\source\\repos\\inheritance\\inheritance\\father.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A65FE58-6782-4F26-A0BD-F0A7C8768FED}|inheritance\\inheritance.csproj|solutionrelative:inheritance\\father.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A65FE58-6782-4F26-A0BD-F0A7C8768FED}|inheritance\\inheritance.csproj|C:\\Users\\seva\\source\\repos\\inheritance\\inheritance\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A65FE58-6782-4F26-A0BD-F0A7C8768FED}|inheritance\\inheritance.csproj|solutionrelative:inheritance\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seva\\source\\repos\\inheritance\\inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\seva\\source\\repos\\inheritance\\inheritance\\Program.cs",
+              "RelativeToolTip": "inheritance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:12:35.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Father.cs",
+              "DocumentMoniker": "C:\\Users\\seva\\source\\repos\\inheritance\\inheritance\\Father.cs",
+              "RelativeDocumentMoniker": "inheritance\\Father.cs",
+              "ToolTip": "C:\\Users\\seva\\source\\repos\\inheritance\\inheritance\\Father.cs",
+              "RelativeToolTip": "inheritance\\Father.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:42:08.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Child.cs",
+              "DocumentMoniker": "C:\\Users\\seva\\source\\repos\\inheritance\\inheritance\\Child.cs",
+              "RelativeDocumentMoniker": "inheritance\\Child.cs",
+              "ToolTip": "C:\\Users\\seva\\source\\repos\\inheritance\\inheritance\\Child.cs",
+              "RelativeToolTip": "inheritance\\Child.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:41:51.57Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

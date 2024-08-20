@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seva\\source\\repos\\classandopbect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFA94B8-7432-497E-BDE7-BC37FDDBDD8D}|classandopbect\\classandopbect.csproj|c:\\users\\seva\\source\\repos\\classandopbect\\classandopbect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFA94B8-7432-497E-BDE7-BC37FDDBDD8D}|classandopbect\\classandopbect.csproj|solutionrelative:classandopbect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seva\\source\\repos\\classandopbect\\classandopbect\\Program.cs",
+              "RelativeDocumentMoniker": "classandopbect\\Program.cs",
+              "ToolTip": "C:\\Users\\seva\\source\\repos\\classandopbect\\classandopbect\\Program.cs",
+              "RelativeToolTip": "classandopbect\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:27:46.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

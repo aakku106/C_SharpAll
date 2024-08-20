@@ -1,0 +1,7 @@
+C:\Users\seva\source\repos\introToClass\introToClass\obj\Debug\introToClass.csproj.AssemblyReference.cache
+C:\Users\seva\source\repos\introToClass\introToClass\obj\Debug\introToClass.csproj.CoreCompileInputs.cache
+C:\Users\seva\source\repos\introToClass\introToClass\bin\Debug\introToClass.exe.config
+C:\Users\seva\source\repos\introToClass\introToClass\bin\Debug\introToClass.exe
+C:\Users\seva\source\repos\introToClass\introToClass\bin\Debug\introToClass.pdb
+C:\Users\seva\source\repos\introToClass\introToClass\obj\Debug\introToClass.exe
+C:\Users\seva\source\repos\introToClass\introToClass\obj\Debug\introToClass.pdb

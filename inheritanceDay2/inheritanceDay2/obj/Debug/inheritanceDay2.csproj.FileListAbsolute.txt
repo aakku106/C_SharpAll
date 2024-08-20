@@ -1,0 +1,7 @@
+C:\Users\seva\source\repos\inheritanceDay2\inheritanceDay2\obj\Debug\inheritanceDay2.csproj.AssemblyReference.cache
+C:\Users\seva\source\repos\inheritanceDay2\inheritanceDay2\obj\Debug\inheritanceDay2.csproj.CoreCompileInputs.cache
+C:\Users\seva\source\repos\inheritanceDay2\inheritanceDay2\bin\Debug\inheritanceDay2.exe.config
+C:\Users\seva\source\repos\inheritanceDay2\inheritanceDay2\bin\Debug\inheritanceDay2.exe
+C:\Users\seva\source\repos\inheritanceDay2\inheritanceDay2\bin\Debug\inheritanceDay2.pdb
+C:\Users\seva\source\repos\inheritanceDay2\inheritanceDay2\obj\Debug\inheritanceDay2.exe
+C:\Users\seva\source\repos\inheritanceDay2\inheritanceDay2\obj\Debug\inheritanceDay2.pdb

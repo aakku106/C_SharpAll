@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seva\\source\\repos\\inheritanceDay2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16E2B89E-113E-4851-91E3-6B96B8704D71}|inheritanceDay2\\inheritanceDay2.csproj|c:\\users\\seva\\source\\repos\\inheritanceday2\\inheritanceday2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E2B89E-113E-4851-91E3-6B96B8704D71}|inheritanceDay2\\inheritanceDay2.csproj|solutionrelative:inheritanceday2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seva\\source\\repos\\inheritanceDay2\\inheritanceDay2\\Program.cs",
+              "RelativeDocumentMoniker": "inheritanceDay2\\Program.cs",
+              "ToolTip": "C:\\Users\\seva\\source\\repos\\inheritanceDay2\\inheritanceDay2\\Program.cs",
+              "RelativeToolTip": "inheritanceDay2\\Program.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAAAJYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:16:04.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

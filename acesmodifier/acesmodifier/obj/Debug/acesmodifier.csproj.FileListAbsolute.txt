@@ -1,0 +1,7 @@
+C:\Users\seva\source\repos\acesmodifier\acesmodifier\obj\Debug\acesmodifier.csproj.AssemblyReference.cache
+C:\Users\seva\source\repos\acesmodifier\acesmodifier\obj\Debug\acesmodifier.csproj.CoreCompileInputs.cache
+C:\Users\seva\source\repos\acesmodifier\acesmodifier\bin\Debug\acesmodifier.exe.config
+C:\Users\seva\source\repos\acesmodifier\acesmodifier\bin\Debug\acesmodifier.exe
+C:\Users\seva\source\repos\acesmodifier\acesmodifier\bin\Debug\acesmodifier.pdb
+C:\Users\seva\source\repos\acesmodifier\acesmodifier\obj\Debug\acesmodifier.exe
+C:\Users\seva\source\repos\acesmodifier\acesmodifier\obj\Debug\acesmodifier.pdb

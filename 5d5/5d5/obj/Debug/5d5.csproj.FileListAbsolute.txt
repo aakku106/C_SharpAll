@@ -1,0 +1,7 @@
+C:\Users\seva\source\repos\5d5\5d5\obj\Debug\5d5.csproj.AssemblyReference.cache
+C:\Users\seva\source\repos\5d5\5d5\obj\Debug\5d5.csproj.CoreCompileInputs.cache
+C:\Users\seva\source\repos\5d5\5d5\bin\Debug\5d5.exe.config
+C:\Users\seva\source\repos\5d5\5d5\bin\Debug\5d5.exe
+C:\Users\seva\source\repos\5d5\5d5\bin\Debug\5d5.pdb
+C:\Users\seva\source\repos\5d5\5d5\obj\Debug\5d5.exe
+C:\Users\seva\source\repos\5d5\5d5\obj\Debug\5d5.pdb

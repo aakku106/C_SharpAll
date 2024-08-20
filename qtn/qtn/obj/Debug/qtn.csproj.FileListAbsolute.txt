@@ -1,0 +1,7 @@
+C:\Users\seva\source\repos\qtn\qtn\obj\Debug\qtn.csproj.AssemblyReference.cache
+C:\Users\seva\source\repos\qtn\qtn\obj\Debug\qtn.csproj.CoreCompileInputs.cache
+C:\Users\seva\source\repos\qtn\qtn\bin\Debug\qtn.exe.config
+C:\Users\seva\source\repos\qtn\qtn\bin\Debug\qtn.exe
+C:\Users\seva\source\repos\qtn\qtn\bin\Debug\qtn.pdb
+C:\Users\seva\source\repos\qtn\qtn\obj\Debug\qtn.exe
+C:\Users\seva\source\repos\qtn\qtn\obj\Debug\qtn.pdb

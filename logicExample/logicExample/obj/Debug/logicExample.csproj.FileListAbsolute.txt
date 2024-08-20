@@ -1,0 +1,7 @@
+C:\Users\seva\source\repos\logicExample\logicExample\bin\Debug\logicExample.exe.config
+C:\Users\seva\source\repos\logicExample\logicExample\bin\Debug\logicExample.exe
+C:\Users\seva\source\repos\logicExample\logicExample\bin\Debug\logicExample.pdb
+C:\Users\seva\source\repos\logicExample\logicExample\obj\Debug\logicExample.csproj.AssemblyReference.cache
+C:\Users\seva\source\repos\logicExample\logicExample\obj\Debug\logicExample.csproj.CoreCompileInputs.cache
+C:\Users\seva\source\repos\logicExample\logicExample\obj\Debug\logicExample.exe
+C:\Users\seva\source\repos\logicExample\logicExample\obj\Debug\logicExample.pdb

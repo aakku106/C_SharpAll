@@ -1,0 +1,7 @@
+C:\Users\seva\source\repos\ErrorHandeling\ErrorHandeling\obj\Debug\ErrorHandeling.csproj.AssemblyReference.cache
+C:\Users\seva\source\repos\ErrorHandeling\ErrorHandeling\obj\Debug\ErrorHandeling.csproj.CoreCompileInputs.cache
+C:\Users\seva\source\repos\ErrorHandeling\ErrorHandeling\bin\Debug\ErrorHandeling.exe.config
+C:\Users\seva\source\repos\ErrorHandeling\ErrorHandeling\bin\Debug\ErrorHandeling.exe
+C:\Users\seva\source\repos\ErrorHandeling\ErrorHandeling\bin\Debug\ErrorHandeling.pdb
+C:\Users\seva\source\repos\ErrorHandeling\ErrorHandeling\obj\Debug\ErrorHandeling.exe
+C:\Users\seva\source\repos\ErrorHandeling\ErrorHandeling\obj\Debug\ErrorHandeling.pdb

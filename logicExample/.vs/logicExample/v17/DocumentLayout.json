@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seva\\source\\repos\\logicExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95D5940B-CA19-42B9-AB2E-4C0091FF6C70}|logicExample\\logicExample.csproj|c:\\users\\seva\\source\\repos\\logicexample\\logicexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D5940B-CA19-42B9-AB2E-4C0091FF6C70}|logicExample\\logicExample.csproj|solutionrelative:logicexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seva\\source\\repos\\logicExample\\logicExample\\Program.cs",
+              "RelativeDocumentMoniker": "logicExample\\Program.cs",
+              "ToolTip": "C:\\Users\\seva\\source\\repos\\logicExample\\logicExample\\Program.cs",
+              "RelativeToolTip": "logicExample\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T07:04:21.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
