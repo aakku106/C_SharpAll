@@ -1,0 +1,7 @@
+C:\Users\seva\source\repos\arrreay\arrreay\bin\Debug\arrreay.exe.config
+C:\Users\seva\source\repos\arrreay\arrreay\bin\Debug\arrreay.exe
+C:\Users\seva\source\repos\arrreay\arrreay\bin\Debug\arrreay.pdb
+C:\Users\seva\source\repos\arrreay\arrreay\obj\Debug\arrreay.csproj.AssemblyReference.cache
+C:\Users\seva\source\repos\arrreay\arrreay\obj\Debug\arrreay.csproj.CoreCompileInputs.cache
+C:\Users\seva\source\repos\arrreay\arrreay\obj\Debug\arrreay.exe
+C:\Users\seva\source\repos\arrreay\arrreay\obj\Debug\arrreay.pdb
